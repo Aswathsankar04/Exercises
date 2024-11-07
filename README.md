@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswath</h1>
-<h3 align="center">Passionate Engineering Student | Aspiring Innovator | Learning in Python,Java,HTML & CSS,Salesforce.</h3>
+<h3 align="center">Passionate Engineering Student | Aspiring Innovator | Learning in Java,Spring,Salesforce,MySQL.</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR0Z2o1dHAweTdtY3AxMzkzY3gzaTFjZzB0aHV4bDluYmVybzJ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
